@@ -1,6 +1,7 @@
 {
     "singleQuote": true,
     "semi": false,
+    "printWidth": 200,
     "overrides": [
         {
             "files": ["**/*.css", "**/*.scss", "**/*.html"],
